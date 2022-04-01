@@ -144,3 +144,7 @@ int main()
     }
     return 0;
 }
+
+void someChanges() {
+    return;
+}
